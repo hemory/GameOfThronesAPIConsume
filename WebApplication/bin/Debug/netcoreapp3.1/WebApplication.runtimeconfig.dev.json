@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/HPhifer/.dotnet/store/|arch|/|tfm|",
+      "/Users/HPhifer/.nuget/packages"
+    ]
+  }
+}
